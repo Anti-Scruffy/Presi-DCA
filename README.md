@@ -1,2 +1,8 @@
-# Presi-DCA
-An application developed for the Department Of Computer Applications at Presidency College Bangalore.
+# presi_dca
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
